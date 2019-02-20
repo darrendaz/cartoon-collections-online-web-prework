@@ -2,8 +2,10 @@ def roll_call_dwarves(dwarfNames)
   dwarfNames.each_with_index { |dwarf, index| puts "#{index + 1} #{dwarf}"}
 end
 
-def summon_captain_planet
-  
+def summon_captain_planet(planeteerCalls)
+  planeteerCalls.each { |call|
+    call.cap
+  }
 end
 
 def long_planeteer_calls
