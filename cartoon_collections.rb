@@ -14,4 +14,5 @@ end
 
 def find_the_cheese(cheeseArray)
   cheese_types = ["cheddar", "gouda", "camembert"]
+  cheeseArray.includes?
 end
