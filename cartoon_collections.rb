@@ -5,7 +5,6 @@ end
 def summon_captain_planet(planeteerCalls)
   planeteerCalls.each { |call|
     call.capitalize << "!"
-    
   }
 end
 
