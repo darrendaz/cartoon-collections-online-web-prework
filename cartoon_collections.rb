@@ -3,6 +3,7 @@ def roll_call_dwarves(dwarfNames)
 end
 
 def summon_captain_planet
+  
 end
 
 def long_planeteer_calls
